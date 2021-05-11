@@ -15,6 +15,7 @@ import HeroesPage from '../components/heroes/HeroesPage';
 import SearchPage from '../components/search/SearchPage';
 
 export const DashboardsRoutes = () => {
+
     return (
         <>
 
